@@ -1,5 +1,7 @@
 # VGC Icons
 
+<img src="https://github.com/vgc/vgc-icons/blob/master/vgcillustration-icon.png" width="128" height="128">
+
 ## About VGC
 
 VGC is a project initiated by VGC Software, whose goal is to implement professional graphic design and 2D animation tools based on the "Vector Graphics Complex". Developed by a collaboration of researchers from Inria Grenoble (France) and the University of British Columbia (Canada), this recent technology has the potential to bring radically more powerful yet intuitive tools to digital artists, such as coordinated editing of vector shapes sharing common boundaries, or automatic computation of inbetweens in 2D hand-drawn animation workflows.
