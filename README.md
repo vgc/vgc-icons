@@ -1,6 +1,6 @@
 # VGC Icons
 
-<img src="https://github.com/vgc/vgc-icons/blob/master/vgcillustration-icon.png" width="128" height="128">
+<img src="https://github.com/vgc/vgc-icons/blob/master/vgcillustration.png" width="128" height="128">
 
 ## About VGC
 
@@ -20,7 +20,7 @@ All SVG, PNG, and JPG files in this repository are Copyright (C) VGC Software. T
 
 The VGC Logo is a trademark of VGC Software.
 
-You are granted permission to use these images and the "VGC" name for creating and distributing Linux packages of VGC Illustration and VGC Animation, if built from unmodified versions of https://github.com/vgc/vgc. 
+You are granted permission to use these images and the "VGC" name for creating and distributing Linux packages of VGC Illustration and VGC Animation, if built from unmodified versions of https://github.com/vgc/vgc.
 
 You are granted permission to use these images and the "VGC" name in presentations and articles discussing about this project.
 
