@@ -1,6 +1,7 @@
 # VGC Icons
 
-<img src="https://github.com/vgc/vgc-icons/blob/master/vgcillustration/vgcillustration_256x256.png" width="128" height="128">
+<img src="https://github.com/vgc/vgc-icons/blob/master/vgcillustration/vgcillustration_256x256.png" width="128" height="128"><img
+src="https://github.com/vgc/vgc-icons/blob/master/vgci/vgci_256x256.png" width="128" height="128">
 
 ## About VGC
 
